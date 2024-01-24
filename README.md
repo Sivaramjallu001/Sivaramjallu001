@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivaramjallu
 - 👀 I’m interested in Coding and new technologies.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Data analysis.
 - 💞️ I’m looking to collaborate on Project related to ML and AI
 - 📫 How to reach me jallusivaram@gmail.com
 
